@@ -1,0 +1,22 @@
+# Design Log
+
+## 2026-06-11
+### Navigator becomes Lighthouse
+
+The plugin evolved from navigation toward
+context management and orientation.
+
+---
+
+## 2026-06-10
+### Sources and Work
+
+Focus states now separate reference material
+from active work.
+
+---
+
+## 2026-06-08
+### Folder Drill-down
+
+Folders no longer expand inline.
